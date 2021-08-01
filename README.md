@@ -2,7 +2,7 @@
 
 ### <a href="https://progressive-web-app-weather-react.netlify.app" target="_blank">Live site</a>
 
-## Covid 19 tracker app using react, chartjs, react-leaflet and material ui
+## A Progressive Web App that shows weather information based on location build with React
 
 ### Run this project
 
