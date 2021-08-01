@@ -1,0 +1,18 @@
+.weather-card {
+  padding: 25px;
+  margin-top: 15px;
+  padding-right: 35px;
+  text-align: center;
+}
+
+.weather-image {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 40px;
+}
+
+.weather-temp {
+  margin-top: 15px;
+}
